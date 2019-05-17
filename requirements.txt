@@ -1,0 +1,7 @@
+ccxt
+numpy
+matplotlib
+pandas
+mpl_finance
+Pillow
+Plyer
